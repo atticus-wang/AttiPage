@@ -9,12 +9,12 @@
         <version>2.0.1.RELEASE</version>
     </parent>
 
-    <groupId>com.jsnjfz.manage</groupId>
-    <artifactId>Webstack-Guns</artifactId>
+    <groupId>com.atticus.manage</groupId>
+    <artifactId>AttiPage</artifactId>
     <version>1.0</version>
 
-    <name>Webstack-Guns</name>
-    <description>Webstack-Guns 的spring boot版本</description>
+    <name>AttiPage</name>
+    <description>个人自用的导航页面</description>
 
     <packaging>jar</packaging>
 

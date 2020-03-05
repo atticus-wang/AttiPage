@@ -2,4 +2,4 @@ server:
   port: 8000
 
 guns:
-  file-upload-path: /Users/atticus/Documents/LocalCode/WebPage/WebStack-Guns/images     #文件上传目录(不配置的话为java.io.tmpdir目录)
+  file-upload-path: /Users/atticus/Documents/LocalCode/AttiPage/AttiPageUpload     #文件上传目录(不配置的话为java.io.tmpdir目录)
