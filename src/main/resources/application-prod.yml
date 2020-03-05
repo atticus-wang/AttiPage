@@ -1,0 +1,5 @@
+server:
+  port: 80
+
+guns:
+  file-upload-path: /usr/local/upload     #文件上传目录(不配置的话为java.io.tmpdir目录)
