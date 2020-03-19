@@ -11,7 +11,7 @@
 
     <groupId>com.atticus.manage</groupId>
     <artifactId>AttiPage</artifactId>
-    <version>1.0</version>
+    <version>1.0.10</version>
 
     <name>AttiPage</name>
     <description>个人自用的导航页面</description>
